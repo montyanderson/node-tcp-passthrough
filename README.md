@@ -14,7 +14,7 @@ Installation (Debian/Ubuntu)
 **Step 2:** Edit config.js in your text editor of choice.
 
     $ cat config.js
-    exports.ip = "localhost" // It will pass-through to this IP
+    exports.ip = "localhost"; // It will pass-through to this IP
     exports.port = 80; // It will pass-through to this port
     exports.listen = 5000; // It will listen to incoming connections on this port
     
