@@ -9,7 +9,6 @@ Installation (Debian/Ubuntu)
     sudo apt-get install nodejs
     git clone https://github.com/montyanderson/node-tcp-passthrough.git
     cd node-tcp-passthrough
-    ./run.sh
 
 **Step 2:** Edit config.js in your text editor of choice.
 
