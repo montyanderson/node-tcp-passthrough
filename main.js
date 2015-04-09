@@ -1,8 +1,8 @@
 console.log("#-- Node.JS TCP Pass-through --#");
 console.log("#------------------------------#");
 
-net = require("net");
-config = require("./config.js");
+var net = require("net");
+var config = require("./config.js");
 
 console.log("Connecting to " + config.ip + ":" + config.port + ".");
 console.log("Listening on port " + config.listen + "\n");
