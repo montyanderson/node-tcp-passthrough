@@ -19,7 +19,7 @@ Installation (Debian/Ubuntu)
     
 **Step 3:** Run and enjoy!
 
-    $ ./run.sh
+    $ node main.js
     #-- Node.JS TCP Pass-through --#
     #------------------------------#
     Connecting to localhost:80.
